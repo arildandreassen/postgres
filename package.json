@@ -1,0 +1,13 @@
+{
+  "name": "postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "local.db.up":"sh ./db/local_db_up.sh",
+    "local.db.down":"sh ./db/local_db_down.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
